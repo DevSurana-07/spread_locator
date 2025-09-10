@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🛒 Transaction Behavior Analysis using Probability Distributions  
 
 ## 🎯 Objective  
@@ -40,6 +39,7 @@ As a data analyst for an **e-commerce platform**, the goal is to:
 ## 🚀 Outcome  
 - 🎯 Identify suitable statistical distributions for transaction behavior.  
 - 💡 Provide actionable insights for e-commerce decision-making.  
+
 =======
 # 🛒 Transaction Behavior Analysis using Probability Distributions  
 
@@ -82,4 +82,3 @@ As a data analyst for an **e-commerce platform**, the goal is to:
 ## 🚀 Outcome  
 - 🎯 Identify suitable statistical distributions for transaction behavior.  
 - 💡 Provide actionable insights for e-commerce decision-making.  
->>>>>>> dfc8099 (Spread Locator)
